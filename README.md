@@ -1,0 +1,2 @@
+# newtech
+Hello Github 
